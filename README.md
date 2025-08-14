@@ -1,0 +1,2 @@
+# db
+para bases publicas
