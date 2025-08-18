@@ -1,0 +1,12 @@
+{
+  "AbC9xZ12Q": {
+    "status": "running",
+    "created_at": "2025-08-18 20:00",
+    "description": "Servidor de pruebas"
+  },
+  "ZyX98LmQ": {
+    "status": "running",
+    "created_at": "2025-08-18 20:15",
+    "description": "Servidor de proyecto A"
+  }
+}
