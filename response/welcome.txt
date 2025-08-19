@@ -1,0 +1,1 @@
+aca es donde se guarda cada response de cada servidor por usuario
